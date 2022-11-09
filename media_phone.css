@@ -28,3 +28,33 @@
         margin-top: 0;
     }
 }
+
+@media (max-width: 900) {
+    .crearHab {
+        padding: 20px;
+        font-size: 2rem;
+        display: flex;
+        flex-direction: column;
+    }
+    .submit {
+        width: 100%;
+        border-radius: 15px;
+        
+    }
+    .labelForm {
+        display: flex;
+        flex-direction: column;
+    }
+    .inputForm {
+        width: 60%;
+        margin: 10px;
+    }
+    .habitacionCreada {
+        font-size: 2rem;
+        padding: 10px;
+    }
+    #infoContainer {
+        font-size: 2rem;
+        margin-top: 0;
+    }
+}
