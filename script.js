@@ -8,7 +8,7 @@ const infoLabel = document. getElementById("infoLabel");
 
 info.classList = "hide";
 
-let agua = 20;
+let agua = 1287;
 
 let xd;
 
